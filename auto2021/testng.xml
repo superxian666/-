@@ -5,8 +5,6 @@
 
 	<test name="test1" preserve-order="true">
 		<classes>
-		
-			<class name="test.gaoxin.demo.TestDemo_gaoxin"/>
 			
 			
 			
