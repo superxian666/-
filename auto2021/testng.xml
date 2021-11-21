@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+
+<suite name="s1" verbose="1" parallel="none">
+
+	<test name="test1" preserve-order="true">
+		<classes>
+		
+			<class name="test.gaoxin.demo.TestDemo_gaoxin"/>
+			
+			
+			<class name="test.hanxinjie.demo.ExcelTest"/>
+			<class name="test.hanxinjie.demo.TestMore"/>
+			<class name="test.hanxinjie.demo.TestScore"/>
+			<class name="test.hanxinjie.demo.TestUser"/>
+			
+
+		
+			<class name="test.supeixian.demo.TestMyTracks"/>
+			<class name="test.supeixian.demo.TestChangePassword"/>
+			
+			<class name="test.wangyan.demo.Test1"/>
+			
+			<class name="test.zhuzhenglin.demo.DemoBackstage"/>
+			<class name="test.zhuzhenglin.demo.DemoLogin"/>
+			
+		</classes>
+	</test>
+
+</suite>
