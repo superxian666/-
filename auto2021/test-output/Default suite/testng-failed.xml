@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="test.supeixian.demo.TestMyTracks">
+        <methods>
+          <include name="test07_collection_more"/>
+          <include name="test23_into_details"/>
+          <include name="addListener"/>
+          <include name="test26_dislike_follows"/>
+          <include name="test34_visit_history"/>
+          <include name="test21_like_follow_post_success"/>
+          <include name="test15_into_dislike_post"/>
+          <include name="test28_into_payment_page"/>
+          <include name="test13_dele_fabulous_record"/>
+          <include name="test25_dele_disliked_follows_fail"/>
+          <include name="test06_collection_clicklong"/>
+          <include name="doBeforeClass"/>
+          <include name="test17_dislike_success"/>
+        </methods>
+      </class> <!-- test.supeixian.demo.TestMyTracks -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
