@@ -7,7 +7,7 @@
 	<test name="test1" preserve-order="true">
 		<classes>
 			<class name="test.supeixian.demo.testSend"/>
-			<class name="sendMail.MailSender/>
+			
 		</classes>
 	</test>
 
