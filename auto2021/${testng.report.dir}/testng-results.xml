@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-24T11:05:37 GMT+08:00" name="s1" finished-at="2021-11-24T11:06:15 GMT+08:00" duration-ms="38602">
+    <groups>
+    </groups>
+    <test started-at="2021-11-24T11:05:37 GMT+08:00" name="test1" finished-at="2021-11-24T11:06:15 GMT+08:00" duration-ms="38602">
+      <class name="test.supeixian.demo.testSend">
+        <test-method signature="test1()[pri:0, instance:test.supeixian.demo.testSend@36902638]" started-at="2021-11-24T11:05:37 GMT+08:00" name="test1" finished-at="2021-11-24T11:05:46 GMT+08:00" duration-ms="9172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:1, instance:test.supeixian.demo.testSend@36902638]" started-at="2021-11-24T11:05:46 GMT+08:00" name="test2" finished-at="2021-11-24T11:05:50 GMT+08:00" duration-ms="4173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:2, instance:test.supeixian.demo.testSend@36902638]" started-at="2021-11-24T11:05:50 GMT+08:00" name="test3" finished-at="2021-11-24T11:05:55 GMT+08:00" duration-ms="5158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- test.supeixian.demo.testSend -->
+      <class name="test.supeixian.demo.testSendMail">
+        <test-method signature="send()[pri:0, instance:test.supeixian.demo.testSendMail@223d2c72]" started-at="2021-11-24T11:05:55 GMT+08:00" name="send" finished-at="2021-11-24T11:06:15 GMT+08:00" duration-ms="20081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send -->
+      </class> <!-- test.supeixian.demo.testSendMail -->
+    </test> <!-- test1 -->
+  </suite> <!-- s1 -->
+</testng-results>

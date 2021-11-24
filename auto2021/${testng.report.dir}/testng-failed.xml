@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [s1]">
+  <test thread-count="5" name="test1(failed)">
+    <classes>
+      <class name="test.supeixian.demo.Test2">
+        <methods>
+          <include name="addListener"/>
+          <include name="doAfterMethod"/>
+          <include name="test01_collection"/>
+          <include name="doBeforeClass"/>
+        </methods>
+      </class> <!-- test.supeixian.demo.Test2 -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [s1] -->
