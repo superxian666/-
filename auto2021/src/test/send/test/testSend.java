@@ -15,6 +15,9 @@ import com.webtest.utils.ReadProperties;
 
 import sendMail.*;
 
+
+//该类仅供测试，不做正常使用
+
 public class testSend extends BaseTest{
 	
 ////	登录的方法，方便后面复用，减少代码重复量
