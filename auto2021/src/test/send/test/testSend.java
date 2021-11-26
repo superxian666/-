@@ -1,4 +1,4 @@
-package test.supeixian.demo;
+package test.send.test;
 
 import java.io.IOException;
 
@@ -49,7 +49,7 @@ public class testSend extends BaseTest{
 	@Test(priority = 0)
 	public void test1() throws InterruptedException {
 		System.out.println("test1 Start running");
-//		login("superxian","123456789spx");
+//		login("admin","123456789adm");
 //		
 //		webtest.click("link=superxian");
 //		webtest.click("link=我的收藏");
@@ -66,7 +66,7 @@ public class testSend extends BaseTest{
 	@Test(priority = 1)
 	public void test2() throws InterruptedException {
 		System.out.println("test2 Start running");
-//		login("superxian","123456789spx");
+//		login("admin","123456789adm");
 //		
 //		webtest.click("link=superxian");
 //		webtest.click("link=我的收藏");
@@ -83,7 +83,7 @@ public class testSend extends BaseTest{
 	@Test(priority = 2)
 	public void test3() throws InterruptedException {
 		System.out.println("test3 Start running");
-//		login("superxian","123456789spx");
+//		login("admin","123456789adm");
 //		
 //		webtest.click("link=superxian");
 //		webtest.click("link=我的收藏");

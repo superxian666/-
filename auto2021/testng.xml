@@ -6,7 +6,7 @@
 
 	<test name="test1" preserve-order="true">
 		<classes>
-			<class name="test.supeixian.demo.test"/>
+			<class name="test.send.test.testSend"/>
 			<class name="test.supeixian.demo.testSendMail"/>
 			
 		</classes>
