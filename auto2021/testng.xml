@@ -9,6 +9,29 @@
 			<class name="test.supeixian.demo.testSend"/>
 			<class name="test.supeixian.demo.testSendMail"/>
 			
+			<!--
+			<class name="test.gaoxin.demo.TestDemo_gaoxin"/>
+			
+			
+			<class name="test.hanxinjie.demo.ExcelTest"/>
+			<class name="test.hanxinjie.demo.TestMore"/>
+			<class name="test.hanxinjie.demo.TestScore"/>
+			<class name="test.hanxinjie.demo.TestUser"/>
+			
+
+		
+			<class name="test.supeixian.demo.TestMyTracks"/>
+			<class name="test.supeixian.demo.TestChangePassword"/>
+			<class name="test.supeixian.demo.testSend"/>
+			
+			<class name="test.wangyan.demo.Test1"/>
+			
+			<class name="test.zhuzhenglin.demo.DemoBackstage"/>
+			<class name="test.zhuzhenglin.demo.DemoLogin"/>
+			
+			<class name="test.guorenjie.demo.SmokeTest"/>
+			 -->
+			
 		</classes>
 	</test>
 	
