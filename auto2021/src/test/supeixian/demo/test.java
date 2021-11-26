@@ -30,15 +30,13 @@ public class test extends BaseTest{
 
 		login("superxian","123456789spx");
 		
-//		webtest.click("link=superxian");
-//		webtest.click("link=我的收藏");
-//		
-//		String url = webtest.getUrl();
-//		Assert.assertEquals("http://localhost/jianyuluntan_2.4.6/index.php/user/index/mycollection.html",url);
-//		System.out.println("test01成功");
-//		
-//		driver.quit();
+	}
+	
+	@Test
+	public void test2() {
 
+		login("superxian","123456789sp");
+		
 	}
 
 
